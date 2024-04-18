@@ -1,0 +1,4 @@
+﻿  ogldev_glfw.cpp
+C:\Users\Micro\Desktop\Personal_Projects\opengl terrain gen proj\generatingTerrain\include\ogldev_glfw.h(23,1): warning C4005: 'GLFW_DLL': macro redefinition
+C:\Users\Micro\Desktop\Personal_Projects\opengl terrain gen proj\generatingTerrain\include\ogldev_glfw.h(23,1): message : 'GLFW_DLL' previously declared on the command line
+  generatingTerrain.vcxproj -> C:\Users\Micro\Desktop\Personal_Projects\opengl terrain gen proj\generatingTerrain\x64\Debug\generatingTerrain.exe
