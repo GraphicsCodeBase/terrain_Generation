@@ -3,3 +3,15 @@
 
 # Ignore all .tlog files
 *.tlog
+
+# Ignore all .log files
+*.log
+
+
+# Ignore all .pdb files
+*.pdb
+
+
+# Ignore all .exe files
+*.exe
+
