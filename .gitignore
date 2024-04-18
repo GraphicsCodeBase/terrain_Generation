@@ -12,6 +12,9 @@
 # Temporary files
 *.tmp
 *.temp
+*.log
+*.vsidx
+
 
 # Log files
 *.log
