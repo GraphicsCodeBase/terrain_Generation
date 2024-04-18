@@ -17,7 +17,7 @@
 
     Terrain Rendering - demo 1
 */
-
+// this is a test for git 
 #include <stdio.h> 
 #include <string.h>
 #include <math.h>
@@ -35,7 +35,7 @@ static void KeyCallback(GLFWwindow* window, int key, int scancode, int action, i
 static void CursorPosCallback(GLFWwindow* window, double x, double y);
 static void MouseButtonCallback(GLFWwindow* window, int Button, int Action, int Mode);
 
-
+ 
 class TerrainDemo1
 {
 public:
