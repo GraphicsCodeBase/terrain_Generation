@@ -1,17 +1,33 @@
-# Ignore all .obj files
+# Binaries
+*.exe
+*.dll
+*.so
+*.out
+*.bin
+
+# Object files
+*.o
 *.obj
 
-# Ignore all .tlog files
-*.tlog
+# Temporary files
+*.tmp
+*.temp
 
-# Ignore all .log files
+# Log files
 *.log
 
-
-# Ignore all .pdb files
+# Debug files
 *.pdb
 
+# Cache files
+*.cache
+# Depending on the build tools and IDE
+bin/
+obj/
+build/
+dist/
 
-# Ignore all .exe files
-*.exe
-
+# For Python projects, for instance
+__pycache__/
+*.py[cod]
+*.pyo
