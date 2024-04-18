@@ -17,7 +17,7 @@
 
     Terrain Rendering - demo 1
 */
-//test for git.
+// this is a text for git.
 #include <stdio.h> 
 #include <string.h>
 #include <math.h>
