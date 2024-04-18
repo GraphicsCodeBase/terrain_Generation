@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Micro\Desktop\Personal_Projects\opengl terrain gen proj\generatingTerrain\x64\Debug\generatingTerrain.exe</FullPath>
+      <FullPath>C:\Users\Micro\Desktop\Personal_Projects\terrain gen proj opengl\terrain_Generation\x64\Debug\generatingTerrain.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
